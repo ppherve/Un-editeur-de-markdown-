@@ -1,0 +1,38 @@
+body{
+	background:#E1F5FE; 
+}
+.row{
+	padding-bottom:0px;
+	padding-top: 0px;
+}
+.container{
+height:100vh;
+}
+.ta{
+padding-left:0px !important;
+padding-right:0px !important;
+margin-top: 50px !important;
+margin-left: 25px !important;
+}
+
+.rendu{
+	position:fixed;
+	width:47%;
+	height:90%;
+	border:2px solid #EEEEEE;
+	margin-top: 50px !important;
+	margin-right:25px !important;
+	background: #FFF;
+}
+.CodeMirror-scroll{
+	margin-right:0px;
+	padding-bottom:0px;
+
+}
+.CodeMirror{
+	border:2px solid #EEEEEE;
+	width:47%;
+	position:fixed;
+	height:90%;
+	background: #FFF;
+}
